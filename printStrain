@@ -1,1 +1,0 @@
-python -W ignore $(dirname "$0")/printStrain.py $PWD $* &> /dev/null
