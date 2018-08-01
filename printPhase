@@ -1,0 +1,1 @@
+python -W ignore $(dirname "$0")/printPhase.py $PWD $* &> /dev/null
