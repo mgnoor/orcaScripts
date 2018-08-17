@@ -1,0 +1,3 @@
+python -W ignore $(dirname "$0")/printPhase.py $PWD $* &> /dev/null
+python -W ignore $(dirname "$0")/printAmplitude.py $PWD $* &> /dev/null
+python2 -W ignore $(dirname "$0")/printAll.py $PWD $* &> /dev/null
