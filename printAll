@@ -1,1 +1,0 @@
-python2 -W ignore $(dirname "$0")/printAll.py $PWD $* &> /dev/null
